@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>修复bug了</title>
+      <link href="/2022/12/03/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/03/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="总之摆弄了一阵把这个bug给处理了qwq"><a href="#总之摆弄了一阵把这个bug给处理了qwq" class="headerlink" title="总之摆弄了一阵把这个bug给处理了qwq"></a>总之摆弄了一阵把这个bug给处理了qwq</h2><p>天知道为什么文件路径没办法识别大写的CSS，导致引用异常，昨晚那版网站效果混乱，只是用了部分的js插件，一图流、居中菜单栏一个都没有体现在上面qwq<br>好在有群友的帮助，指出了问题所在，索性把css写进HTML里头了，再一弄就把网站的理想效果表达出来了<br>（づ￣3￣）づ╭❤～<br>总之问题画下了一个句号，今天猹猹的个人博客！堂堂连载！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活趣闻 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>建站啦ヽ (✿ﾟ▽ﾟ) ノ</title>
       <link href="/2022/11/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/11/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
